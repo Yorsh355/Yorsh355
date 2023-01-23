@@ -20,11 +20,11 @@
 
 ## ¿A dónde me dirijo?
 
-📈 Mi meta es ayudar a las personas a resolver problemas cotidianos con codigo, ya que lo mas preciado que tiene una persona ademas de la familia, es el tiempo. Por eso mi interes de poder hacer las situaciones cotidianas y asi permitirle a las personas a difrutar mas las cosas que aman. (P.D.: Yo ya estoy disfrutando de lo que amo)🌟
+📈 Mi meta es ayudar a las personas a resolver problemas cotidianos con codigo, ya que lo mas preciado que tiene una persona ademas de la familia, es el tiempo. Por eso mi interes es el de poder hacer la vida de las personas mas facil por medio de del código y asi permitirle a las personas difrutar mas las cosas que aman. (Yo ya estoy disfrutando de lo que amo!!!)💟
 
 ## ¿Qué tecnologías uso?
 
-💻 Como dicen por ahi, "Si amas lo que haces, ni los lunes te quitaran la sonrisa" es por eso que desde que comenze la carrera de ingeniería informatica no he parado de aprender y mejorar mis conocmientos y habilidades, tanto asi que mientras estudiaba la carrera lleve un bootcamp de desarrollo web que me permitio encontrar la que considero mi pasion, es por eso que he podido desarrollar conocimientos solidos en las siguientes tecnologias:
+💻 Como dicen por ahi, "Si amas lo que haces, ni los lunes te quitaran la sonrisa" es por eso que desde que no he parado de aprender y mejorar mis conocmientos y habilidades, tanto asi que mientras trabajaba en el Banco me inscribí en un bootcamp de desarrollo web que me permitio encontrar la que considero mi pasion, es por eso que he podido desarrollar conocimientos solidos en las siguientes tecnologias:
 
 ### Frontend:
 
@@ -40,13 +40,9 @@
 ### Backend:
 
 <div id="header" align="center">
-    <img src="./img/brands/Backend/logo2.png" title="javascript iconos" alt="" width="50">
-    <img src="./img/brands/Backend/logo3.png" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo4.png" title="javascript iconos" alt="" width="50">
     <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" title="javascript iconos" alt="" width="50">
     <img src="./img/brands/Backend/logo6.png" title="javascript iconos" alt="" width="50">
-    <img src="./img/brands/Backend/logo7.png" title="javascript iconos" alt="" width="50">
-    <img src="./img/brands/Backend/logo8.png" title="javascript iconos" alt="" width="50">   
 </div>
 
 ### En progreso:
@@ -58,9 +54,9 @@
 ## Si te gusto lo que leíste, no dudes en contactarme.
 
 📞 Te dejo por aqui las diferentes formas en las que me puedes contactar.<br>
-📫 miguelangelpazv2110@gmail.com
+📫 yorsh355@gmail.com
 
  <div id="header" align="center">
-        <a href="https://www.linkedin.com/in/miguel-angel-paz-53a5a1236/"><img src="./img/brands/contact/linkedin-original.256x256.png" alt="" width="40"></a>
-        <a href="https://miguedev.netlify.app/"><img src="./img/brands/contact/miguelDev.png" alt="" width="40"></a>
+        <a href="https://www.linkedin.com/in/yorman-alberto-londo%C3%B1o-trujillo-684104224/"><img src="./img/brands/contact/linkedin-original.256x256.png" alt="" width="40"></a>
+       
 </div>
