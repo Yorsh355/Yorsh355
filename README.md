@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="./img/emoji.jpeg" alt="" width="300">
+        <img src="./img/perfilGitHub.png" alt="" width="300">
         <h1>Hola 👋, soy Yorman Londoño</h1>
         <h3>
            Un apasionado desarrollador web fullstack de Colombia. Un gusto en saludarte y espero con esto me conozcas un poco mas.
@@ -12,7 +12,7 @@
 
 ## ¿Quien soy?
 
-🧒🏾 Desde pequeño siempre supe que me queria dedicar al mundo IT, me emocionaban los desafíos que me motivaran a buscar soluciones de forma creativa, y conforme iba creciendo la ganas de iniciar en este mundo se hacian mas fuertes, por eso estudié Ingenieria de Sistemas y Telecomunicaciones, pero por esas cosas de la vida, mientras terminaba la universisdad comence a trabajar en un Banco en el cual hice carrera en areas administrativas durante más de 14 años, pero mis deseos de continuar aprendiendo eran imparables por lo que mientras trabajaba, hacia cursos y estudiaba, con el fin de buscar una posición en el sector IT con los conocimientos adquiridos, y bueno en el 2022 tome la desición de hacer el bootcamp Hernry para afianzar mis conocimientos y buscar con mayor fuerza lograr mi sueño de ingresar a esta industria... 🙌🏾
+🧑‍💻 Desde pequeño siempre supe que me queria dedicar al mundo IT, me emocionaban los desafíos que me motivaran a buscar soluciones de forma creativa, y conforme iba creciendo la ganas de iniciar en este mundo se hacian mas fuertes, por eso estudié Ingenieria de Sistemas y Telecomunicaciones, pero por esas cosas de la vida, mientras terminaba la universisdad comence a trabajar en un Banco en el cual hice carrera en areas administrativas durante más de 14 años, pero mis deseos de continuar aprendiendo eran imparables por lo que mientras trabajaba, hacia cursos y estudiaba, con el fin de buscar una posición en el sector IT con los conocimientos adquiridos, y bueno en el 2022 tome la desición de hacer el bootcamp Hernry para afianzar mis conocimientos y buscar con mayor fuerza lograr mi sueño de ingresar a esta industria... 🙌🏾
 
 ## ¿Que hago?
 
